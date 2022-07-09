@@ -1,4 +1,4 @@
-# SwiftUI-Prototype
+# Apple Products
 In this project I built 2 interfaces for "Apple products" application using SwiftUI where the user can explore apple products throught the app
 
 # Prototype preview
